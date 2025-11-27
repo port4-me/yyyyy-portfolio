@@ -1,17 +1,17 @@
 
     :root {
-      --primary-color: #EC4899 !important;
-      --secondary-color: #8B5CF6 !important;
+      --primary-color: #3B82F6 !important;
+      --secondary-color: #1E293B !important;
       --accent-color: #10B981 !important;
-      --background-color: #FFFFFF !important;
+      --background-color: #f83a3a !important;
       --text-color: #1F2937 !important;
       --text-light: #525c6a !important;
       --text-muted: #858f9d !important;
-      --bg-card: #f2f2f2 !important;
-      --bg-secondary: #e5e5e5 !important;
-      --bg-darker: #d9d9d9 !important;
-      --border-color: #d9d9d9 !important;
-      --font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
+      --bg-card: #ff5454 !important;
+      --bg-secondary: #ff6d6d !important;
+      --bg-darker: #d21414 !important;
+      --border-color: #ff8787 !important;
+      --font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
       --font-size: 16px !important;
       --border-radius: 12px !important;
       --section-spacing: 5rem !important;
@@ -20,12 +20,12 @@
     
     /* Override template-specific variables */
     :root {
-      --bg-color: #FFFFFF !important;
-      --bg-dark: #FFFFFF !important;
-      --bg-darker: #e5e5e5 !important;
+      --bg-color: #f83a3a !important;
+      --bg-dark: #f83a3a !important;
+      --bg-darker: #de2020 !important;
       --text-color: #1F2937 !important;
       --text-muted: #858f9d !important;
-      --border-color: #d9d9d9 !important;
+      --border-color: #ff8787 !important;
     }
     
     body {
